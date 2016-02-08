@@ -1,0 +1,13 @@
+*.pyc
+
+.coverage
+
+ansible.cfg
+hosts
+
+venv/
+build/
+dist/
+sample.egg-info/
+
+.cache/
