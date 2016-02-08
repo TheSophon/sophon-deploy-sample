@@ -8,7 +8,7 @@ from sample import __version__
 setup(
     name="sample",
     version=__version__,
-    url="https://github.com/TheSophon/sophon_deploy_sample",
+    url="https://github.com/TheSophon/sophon-deploy-sample",
     license="MIT",
     description="",
     long_description=open("README.md").read(),
